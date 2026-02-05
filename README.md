@@ -20,3 +20,8 @@ Each service:
 - Can be deployed, scaled, and updated independently
 
 *Think: a system made of Lego bricks instead of one giant statue.*
+
+Each service could be:
+- Written in a different language
+- Using a different database
+- Deployed on a different schedule
