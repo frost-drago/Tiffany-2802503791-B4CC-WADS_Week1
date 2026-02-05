@@ -43,3 +43,15 @@ A microservice usually includes:
 - Its own database (important!)
 - A clear API contract
 - A narrow responsibility
+
+Each service could be:
+- Written in a different language
+- Using a different database
+- Deployed on a different schedule
+
+Core principles:
+1. Single Responsibility
+2. Loose coupling
+3. Independent deployment
+4. Own your data
+
