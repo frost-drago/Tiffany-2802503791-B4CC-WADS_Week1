@@ -10,3 +10,5 @@ Microservices is a software architecture style that structures an application as
 
 ![General image about microservices](Microservices-Architecture-1024x642.jpg "Microservices jpg")
 ![Image about microservices](Microservice_Architecture.png "Microservices png")
+
+Microservices is an architectural style where a backend system is split into many small, independent services, instead of one big monolith.
