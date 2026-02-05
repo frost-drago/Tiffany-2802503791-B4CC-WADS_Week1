@@ -1,3 +1,5 @@
+# TESTING TESTING TESTING TESTING TESTING
+
 - **Name:** Tiffany
 
 - **Student ID:** 2802503791
@@ -10,7 +12,6 @@ Microservices is a software architecture style that structures an application as
 
 ![General image about microservices](Microservices-Architecture-1024x642.jpg "Microservices jpg")
 ![Image about microservices](Microservice_Architecture.png "Microservices png")
-
 Microservices is an architectural style where a backend system is split into many small, independent services, instead of one big monolith.
 
 Each service:
@@ -20,3 +21,25 @@ Each service:
 - Can be deployed, scaled, and updated independently
 
 *Think: a system made of Lego bricks instead of one giant statue.*
+
+## Monolithic VS Microservices
+
+**Monolithic app**
+- One codebase
+- One deployment
+- One failure can take everything down
+- Simple at first, painful later
+
+**Microservices**
+- Many services
+- Each can live, die, or scale independently
+- More moving parts, more power
+
+## What is a microservice, concretely?
+
+A microservice usually includes:
+
+- Its own codebase
+- Its own database (important!)
+- A clear API contract
+- A narrow responsibility
