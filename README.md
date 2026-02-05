@@ -1,5 +1,3 @@
-# TESTING TESTING TESTING TESTING TESTING
-
 - **Name:** Tiffany
 
 - **Student ID:** 2802503791
