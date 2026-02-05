@@ -23,3 +23,12 @@ Microservices is a software architecture style that structures an application as
 - Many services
 - Each can live, die, or scale independently
 - More moving parts, more power
+
+## What is a microservice, concretely?
+
+A microservice usually includes:
+
+- Its own codebase
+- Its own database (important!)
+- A clear API contract
+- A narrow responsibility
