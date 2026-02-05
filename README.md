@@ -10,3 +10,16 @@ Microservices is a software architecture style that structures an application as
 
 ![General image about microservices](Microservices-Architecture-1024x642.jpg "Microservices jpg")
 ![Image about microservices](Microservice_Architecture.png "Microservices png")
+
+## Monolithic VS Microservices
+
+**Monolithic app**
+- One codebase
+- One deployment
+- One failure can take everything down
+- Simple at first, painful later
+
+**Microservices**
+- Many services
+- Each can live, die, or scale independently
+- More moving parts, more power
